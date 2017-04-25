@@ -1,0 +1,19 @@
+{
+  "name": "yaeb",
+  "version": "1.0.0",
+  "description": "Yet Another Eliza Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterpalladino/yaeb.git"
+  },
+  "author": "Walter Hugo Palladino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterpalladino/yaeb/issues"
+  },
+  "homepage": "https://github.com/walterpalladino/yaeb#readme"
+}
