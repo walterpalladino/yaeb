@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/walterpalladino/yaeb/issues"
   },
-  "homepage": "https://github.com/walterpalladino/yaeb#readme"
+  "homepage": "https://github.com/walterpalladino/yaeb#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }

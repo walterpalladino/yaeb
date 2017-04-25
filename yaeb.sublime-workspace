@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"maxSpeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/walterpalladino/Documents/tmp/Adventure/advc64/CBMADV/QUEST30.BAS",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/res/layout/message_list_out_row.xml",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/res/layout/message_list_in_row.xml",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/activity/LoadGameResourcesActivity.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/activity/GameListActivity.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/activity/GameBriefActivity.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/activity/TeamSettingsActivity.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/activity/GameEventWaitingActivity.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/TeamUpdateResponse.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/SaoResponse.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameJoinResponse.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameJoinRequest.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameGetResponse.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameGetRequest.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameGetAllResponse.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameGetAllRequest.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameEventLoginResponse.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/GameEventLoginRequest.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/TeamUpdateRequest.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/sao/model/SaoRequest.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/Message.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/MapItem.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/Team.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/GameTeamQuiz.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/GameStatus.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/QuizOption.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/Quiz.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/Game.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/Goal.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/GameEvent.java",
+		"/Users/walterpalladino/Documents/prg/as-ws/TriviographyOpenTeam/TriviographyOpenTeamApp/src/main/java/com/whp/android/triviographyopenteam/model/Company.java",
+		"/Users/walterpalladino/Sites/TriviographyV2/assets/import/export_file.json",
+		"/Users/walterpalladino/Sites/wp002/wp-content/themes/twentysixteen-wp-custom/style.css",
+		"/Users/walterpalladino/Library/Application Support/Steam/steamapps/common/Unturned/EconInfo.json",
+		"/Users/walterpalladino/Sites/wp002/wp-config.php",
+		"/Users/walterpalladino/Sites/wp001/wp-content/plugins/uam-wc-integration/uam-wc-integration.php",
+		"/Users/walterpalladino/Library/Application Support/Sublime Text 3/Packages/Corona Editor/README.md",
+		"/Users/walterpalladino/Documents/tmp/Emulation/C64/C-swifty4-master/Programs/TestMulticolorBitmpapMode.txt",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/ionic-tutorial-dinnerapp/www/app/login/login.controller.js",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/impl/SimpleRoad.java",
+		"/Users/walterpalladino/Sites/javascript-racer/v1.straight.html",
+		"/Users/walterpalladino/Sites/javascript-racer/common.js",
+		"/Users/walterpalladino/Sites/javascript-racer/v3.hills.html",
+		"/Users/walterpalladino/Sites/javascript-racer/v4.final.html",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/treehouse_badges/www/templates/tab-dash.html",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/scotch-todo/www/index.html",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/scotch-todo/www/js/app.js",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/treehouse_badges/www/js/controllers.js",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/treehouse_badges/www/templates/tabs.html",
+		"/Users/walterpalladino/Sites/javascript-racer/v2.curves.html",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/RoadBuilder.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/RoadSegment.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/GameScreen.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/SpeedGame.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/Player.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/Car.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/Road.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/impl/FullRoad.java",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/core/src/com/supercookie/speed/road/Point.java",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/ionic-tutorial-dinnerapp/www/app/services/dinner.service.js",
+		"/Users/walterpalladino/Documents/prg/ionic-ws/ionic-tutorial-dinnerapp/www/index.html",
+		"/Users/walterpalladino/Documents/tmp/Games/MonsterOfCookie-death-race-2000-5ca953fcbf34/android/src/com/supercookie/speed/android/AndroidLauncher.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"team_name_hint",
+			"floating_layout_background",
+			"mark",
+			"read",
+			"mark",
+			"count",
+			"list_row_background",
+			"ADMIN",
+			"message",
+			"switch",
+			"imageViewMapTypeSelectListener",
+			"checkNearQuiz",
+			"showQuizDialog",
+			"updateScreenInformation",
+			"UpdateCompleted",
+			"onGameUpdateCompleted",
+			"isQuizPending",
+			"dummy",
+			"questions_dialog_title",
+			"showQuizDialog",
+			"updateMarkers",
+			"updateScreenInformation",
+			"notificationsHelper",
+			"private",
+			"switchtologin",
+			"updateScreenInformation",
+			"quizDialogShown",
+			"updateGameStatus",
+			"HANDLER_RUN_DELAY",
+			"initMap",
+			"join",
+			"switch",
+			"loadGame",
+			"switchToGameListActivity",
+			"closeCriticalDialogOnClickListener",
+			"setQuizAnswerControl",
+			"isGameCompleted",
+			"processLogin",
+			"ff9696",
+			"e49279",
+			"gk",
+			"spe",
+			"render",
+			"currentLapTime",
+			"addDownhillToEnd",
+			"lastY",
+			"addSCurves",
+			"addCurve",
+			"offset",
+			"skyOffset",
+			"var playerSegment = findSegment(position+playerZ);\n      var speedPercent  = speed/maxSpeed;\n      var dx            = dt * 2 * speedPercent; // at top speed, should be able to cross from left to right (-1 to +1) in 1 second\n\n      position = Util.increase(position, dt * speed, trackLength);\n\n      skyOffset  = Util.increase(skyOffset,  skySpeed  * playerSegment.curve * speedPercent, 1);\n      hillOffset = Util.increase(hillOffset, hillSpeed * playerSegment.curve * speedPercent, 1);\n      treeOffset = Util.increase(treeOffset, treeSpeed * playerSegment.curve * speedPercent, 1);\n\n      if (keyLeft)\n        playerX = playerX - dx;\n      else if (keyRight)\n        playerX = playerX + dx;\n\n      playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal);\n\n      if (keyFaster)\n        speed = Util.accelerate(speed, accel, dt);\n      else if (keySlower)\n        speed = Util.accelerate(speed, breaking, dt);\n      else\n        speed = Util.accelerate(speed, decel, dt);\n\n      if (((playerX < -1) || (playerX > 1)) && (speed > offRoadLimit))\n        speed = Util.accelerate(speed, offRoadDecel, dt);\n\n      playerX = Util.limit(playerX, -2, 2);     // dont ever let player go too far out of bounds\n      speed   = Util.limit(speed, 0, maxSpeed); // or exceed maxSpeed\n",
+			"centrifugal",
+			"eas",
+			"keyFaster",
+			"segment",
+			"reset",
+			"Render.sprite",
+			"SPRITES.SCALE",
+			"SPRITES",
+			"sprites"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"3a3a3a",
+			"ff9696"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yaeb.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
